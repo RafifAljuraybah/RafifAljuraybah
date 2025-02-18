@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Rafif
+BSc Data Science @ Sheffield
+## 🚀 Skills & Tools  
+- Programming: Python & SQL  
+- Data Science: Machine Learning, Hypothesis Testing, Dashboards  
+- Visualization: Matplotlib, Piktochart, Tableau 
 <!--
 **RafifAljuraybah/RafifAljuraybah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
